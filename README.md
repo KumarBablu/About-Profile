@@ -5,7 +5,7 @@
 -     Expertise in building data models using Star and Snowflake schema and performing ETL operations.
       Hands-on experience with writing SQL queries for data validation and data preparation also worked on Excel.
 - 💞️ I’m looking to collaborate on Business/Data analyst.
-- 📫 How to reach me 
+- 📫 How to reach me...
 -     Email id : bablusoni2825@gmail.com
 -     Contact  : +91 9771039201
 -     LinkedIn : www.linkedin.com/in/aku-bablu-kumar
